@@ -1,3 +1,12 @@
+--[[
+
+O BTW This is a HEAVILY modified VERSION of the old script XD
+
+It boots no errors :3
+
+]]--
+
+
 if SCV3global == true then return end
 pcall(function() 
 	getgenv().SCV3global = true 
