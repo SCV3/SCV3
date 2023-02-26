@@ -1,5 +1,7 @@
 Shat Ap
 
+Ya this is SCV3 leaked lel
+
 SCV3 ONTOP XD
 
 
